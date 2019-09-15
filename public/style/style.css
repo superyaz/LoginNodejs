@@ -1,0 +1,19 @@
+body {
+  margin: 100px auto;
+  text-align: inherit;
+  width: 400px;
+}
+
+.jumbotron > .row > div > h1 {
+  margin-bottom: 30px;
+  margin-left: 75px;
+}
+
+#sendData {
+  text-align: center;
+  margin-left: 252px;
+}
+
+.title {
+  text-align: center;
+}
